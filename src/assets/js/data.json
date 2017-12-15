@@ -1,0 +1,9 @@
+{
+	"proList":[
+		{"name": "凡客T恤 独角仙 飞鱼 黑色", "price": 136, "color": "白色", "size": "L", "num":1},
+		{"name": "凡客T恤 复刻 Jun Oson 3 女款", "price": 228, "color": "黑色", "size": "M","num":1},
+		{"name": "凡客卫衣 圆领 熊本熊 S2", "price": 199, "color": "浅花灰","size": "XL","num":1},
+		{"name": "凡客羽绒服 加厚鹅绒 棒球服", "price": 398, "color": "藏蓝色/米白色","size":"L","num":1},
+		{"name": "衬衫 法兰绒 男款", "price": 298, "color": "白灰套格", "size": "XL","num":1}
+	]
+}

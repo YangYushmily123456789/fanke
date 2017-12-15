@@ -1,0 +1,34 @@
+{
+	"result":
+		{
+		"weiyi":[{"name": "卫衣", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p2.vanclimg.com/product/6/3/7/6378353/mid/6378353-1j201709090039435468.jpg"},	{"name": "羽绒服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p1.vanclimg.com/product/6/3/7/6375431/mid/6375431-1j201710131712238133.jpg"},
+		{"name": "夹克", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p4.vanclimg.com/product/6/3/7/6378026/mid/6378026-1j201710121408227822.jpg"},
+		{"name": "棉服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p2.vanclimg.com/product/6/3/7/6378281/mid/6378281-1j201711031618496576.jpg"},
+		{"name": "外套", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p5.vanclimg.com/product/6/3/7/6375651/mid/6375651-1j201709151926288158.jpg"},
+		{"name": "羽绒服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p1.vanclimg.com/product/6/3/7/6375440/mid/6375440-1j201709151926140815.jpg"},
+		{"name": "夹克", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p5.vanclimg.com/product/6/3/7/6378261/mid/6378261-1j201709211359324069.jpg"},
+		{"name": "棉服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://i.vanclimg.com/640/q80/product/6/3/7/6377096/big/6377096-1201709181534482577.jpg"},
+
+		{"name": "外套", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://i.vanclimg.com/640/q80/product/6/3/7/6377955/big/6377955-1j201709181637082123.jpg"},
+		{"name": "夹克", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p4.vanclimg.com/product/6/3/7/6378026/mid/6378026-1j201710121408227822.jpg"},
+		{"name": "棉服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p2.vanclimg.com/product/6/3/7/6378281/mid/6378281-1j201711031618496576.jpg"},
+		{"name": "外套", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p5.vanclimg.com/product/6/3/7/6375651/mid/6375651-1j201709151926288158.jpg"},
+		{"name": "羽绒服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p1.vanclimg.com/product/6/3/7/6375440/mid/6375440-1j201709151926140815.jpg"}],
+
+		
+		"nvzhuang":[{"name": "卫衣", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p2.vanclimg.com/product/6/3/7/6378353/mid/6378353-1j201709090039435468.jpg"},	{"name": "羽绒服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p1.vanclimg.com/product/6/3/7/6375431/mid/6375431-1j201710131712238133.jpg"},
+		{"name": "夹克", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p4.vanclimg.com/product/6/3/7/6378026/mid/6378026-1j201710121408227822.jpg"},
+		{"name": "棉服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p2.vanclimg.com/product/6/3/7/6378281/mid/6378281-1j201711031618496576.jpg"},
+		{"name": "外套", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p5.vanclimg.com/product/6/3/7/6375651/mid/6375651-1j201709151926288158.jpg"},
+		{"name": "羽绒服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p1.vanclimg.com/product/6/3/7/6375440/mid/6375440-1j201709151926140815.jpg"},
+		{"name": "夹克", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p5.vanclimg.com/product/6/3/7/6378261/mid/6378261-1j201709211359324069.jpg"},
+		{"name": "棉服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://i.vanclimg.com/640/q80/product/6/3/7/6377096/big/6377096-1201709181534482577.jpg"},
+
+		{"name": "外套", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://i.vanclimg.com/640/q80/product/6/3/7/6377955/big/6377955-1j201709181637082123.jpg"},
+		{"name": "夹克", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p4.vanclimg.com/product/6/3/7/6378026/mid/6378026-1j201710121408227822.jpg"},
+		{"name": "棉服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p2.vanclimg.com/product/6/3/7/6378281/mid/6378281-1j201711031618496576.jpg"},
+		{"name": "外套", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p5.vanclimg.com/product/6/3/7/6375651/mid/6375651-1j201709151926288158.jpg"},
+		{"name": "羽绒服", "price": 136, "color": "白色", "size": "L", "num":0, "imgUrl":"http://p1.vanclimg.com/product/6/3/7/6375440/mid/6375440-1j201709151926140815.jpg"}]
+
+		}
+}
